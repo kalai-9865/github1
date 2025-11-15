@@ -1,3 +1,0 @@
-this is test3.txt file
-this is basic file
-this file is empty
